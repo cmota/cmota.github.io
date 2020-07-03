@@ -1,26 +1,30 @@
 # Site settings
-title: Klise Theme
+title: Carlos Mota
 description: >-
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  Android tech lead at WIT Software, he can easily be spotted there working on the company RCS solution. An enthusiastic for new technology and always trying to reach those last 20% of all of his side projects that seem to be really far away, he loves to share his knowledge with others either by giving talks, teaching, writing or along with a cold beer in the nearest pub. GDG Coimbra organizer and Kotlin evangelist, he also has a huge passion for travel, photography, space and the occasional run.
 lang: en-US
-timezone: Asia/Jakarta
+timezone: Europe/Lisbon
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/mahendrata.now.sh
+repo: https://github.com/cmota
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Klisé Theme
-  bio: >-
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username
-  email: your-email@email.com
+  name: Carlos Mota
+  bio: 
+    </p>
+    👨‍💻 Android Dev Lead @WITSoftware </p>
+    🗣 Founder <a href="https://twitter.com/GDGCoimbra" target="_blank" rel="noopener">@GDGCoimbra</a> and co-founder <a href="https://twitter.com/Kotlin_Knights" target="_blank" rel="noopener">@Kotlin_Knights</a> </p>
+    ✍️ Author <a href="https://twitter.com/rwenderlich" target="_blank" rel="noopener">@rwenderlich</a> and <a href="https://twitter.com/opinioesonline" target="_blank" rel="noopener">@opinioesonline</a> </p>
+    🎙 Podcaster wannabe </p>
+    🗺 Loves travel, photography and running </p>
+
+  username: cafonsomota
+  email: cafonsomota@gmail.com
   avatar: /assets/img/avatar.jpg
 
 # Url settings
-url: "https://klise.now.sh"
+url: "https://cafonsomota.xyz"
 baseurl:
 permalink: /:title/
 google_analytics:
@@ -29,6 +33,8 @@ fb_appid:
 # Collection setting
 collections:
   posts:
+    output: true
+  talks:
     output: true
 
 # Markdown settings
@@ -55,6 +61,8 @@ jekyll_compose:
     modified:
     tags: []
     description:
+
+future: true
 
 # Build settings
 sass:

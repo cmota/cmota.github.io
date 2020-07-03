@@ -1,18 +1,19 @@
 ---
-title: Colophon
+title: hello all 👋
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: 👨‍, 💻, 🤖, 🔭🌖, 🗺, 📸, 🏃‍♂️💨, 🇵🇹, 🖖
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Android tech lead at WIT Software, he can easily be spotted there working on the company RCS solution. An enthusiastic for new technology and always trying to reach those last 20% of all of his side projects that seem to be really far away, he loves to share his knowledge with others either by giving talks, teaching, writing or along with a cold beer in the nearest pub. GDG Coimbra organizer and Kotlin evangelist, he also has a huge passion for travel, photography, space and the occasional run.
 
-If you have a question about him or else, just send a letter to him.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+##### Links ✨
 
-##### may u needs ✨
-
-- {{ site.author.email }}
-- github.com/{{ site.author.username }}
+- <a href="mailto:cafonsomota@gmail.com">Email</a>
+- <a href="https://twitter.com/cafonsomota" rel="noopener">Twitter</a>
+- <a href="https://medium.com/@cafonsomota" rel="noopener">Medium</a>
+- <a href="https://github.com/cmota" rel="noopener">GitHub</a>
+- <a href="https://speakerdeck.com/cmota" rel="noopener">Speaker Deck</a>
+- <a href="https://www.linkedin.com/in/cafonsomota/" rel="noopener">LinkedIn</a>

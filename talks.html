@@ -1,0 +1,36 @@
+---
+title: Talks
+permalink: /talks/
+layout: writing
+excerpt: 🗣
+comments: false
+---
+
+<h4 class="posts-item-note">Upcoming Talks</h4>
+{% for talk in site.talks reversed %}
+{% if talk.date > site.time %}	
+  <article class="post-item">
+    <span class="post-item-date">{{ talk.date | date: "%b %d, %Y" }}</span>
+    <h4 class="post-item-title">
+      <a href="{{ talk.url }}">{{ talk.title}}</a>
+    </h4>
+    <span class="post-item-location">, {{talk.event}} ({{talk.location}})</span>
+  </article>
+  {% endif %}
+{% endfor %}
+
+<div style="height:30px; width:100%; clear:both;"></div>
+
+<h4 class="posts-item-note">Past Talks</h4>
+{% for talk in site.talks reversed %}
+{% if talk.date <= site.time %}	
+  <article class="post-item">
+    <span class="post-item-date">{{ talk.date | date: "%b %d, %Y" }}</span>
+    <h4 class="post-item-title">
+      <a href="{{ talk.url }}">{{ talk.title}}</a>
+    </h4>
+    <span class="post-item-location">, {{talk.event}} ({{talk.location}})</span>
+  </article>
+  {% endif %}
+{% endfor %}
+

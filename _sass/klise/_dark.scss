@@ -97,7 +97,7 @@ body[data-theme="dark"] {
     }
 
     &:focus {
-      outline-color: rgba(255, 82, 119, 0.6);
+      outline-color: rgba(19, 135, 71, 0.6);
     }
   }
 
@@ -160,6 +160,9 @@ body[data-theme="dark"] {
     }
 
     .post-item-date {
+      color: $dark-white;
+    }
+    .post-item-location {
       color: $dark-white;
     }
     .post-item-title {

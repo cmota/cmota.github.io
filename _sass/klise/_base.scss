@@ -134,7 +134,7 @@ ul {
     text-align: -webkit-match-parent;
   }
   li::before {
-    content: "\03BB";
+    content: "\2022";
     display: inline-block;
     width: 1em;
     position: relative;
@@ -248,7 +248,7 @@ em {
 blockquote {
   color: $gray;
   font-style: italic;
-  text-align: center;
+  text-align: left;
   opacity: 0.9;
   border-top: 1px solid $light;
   border-bottom: 1px solid $light;
@@ -266,7 +266,7 @@ blockquote {
 // Wrapper
 .wrapper {
   max-width: -webkit-calc(#{$narrow-size} - (#{$spacing-full} * 2));
-  max-width: calc(#{$narrow-size} - (#{$spacing-full} * 2));
+  max-width: calc(#{$narrow-size});
   position: relative;
   margin-right: auto;
   margin-left: auto;

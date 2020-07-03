@@ -2,15 +2,24 @@
   url: /
   external: false
 
+- title: writing
+  url: /writing/
+  external: false
+
+- title: talks
+  url: /talks/
+  external: false
+
 - title: about
   url: /about/
   external: false
 
-- title: notes
-  url: /notes/
-  external: false # set true if you using external link, see bellow
+- title: resume
+  url: https://www.linkedin.com/in/cafonsomota/
+  external: true
 
 # Example:
 # - title: github
 #   url: https://github.com/piharpi/jekyll-klise
 #   external: true
+#   external: false # set true if you using external link, see bellow

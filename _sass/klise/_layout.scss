@@ -2,7 +2,7 @@
 .navbar {
   height: auto;
   max-width: calc(#{$wide-size} - (#{$spacing-full} * 2));
-  max-width: -webkit-calc(#{$wide-size} - (#{$spacing-full} * 2));
+  max-width: -webkit-calc(#{$wide-size});
   position: relative;
   margin-right: auto;
   margin-left: auto;
@@ -181,18 +181,19 @@
 
 // Author
 .author {
-  margin-top: 6.3rem;
-  margin-bottom: 7.2rem;
-  text-align: center;
+  margin-top: 6rem;
+  margin-bottom: 4rem;
 
   @include media-query($on-mobile) {
     margin-bottom: 3em;
   }
 
   .author-avatar {
-    width: 70px;
-    height: 70px;
+    width: 90px;
+    height: 90px;
     border-radius: 100%;
+    display: block;
+    margin: auto;
     user-select: none;
     background-color: $black;
     -ms-user-select: none;
@@ -204,7 +205,8 @@
 
   .author-name {
     font-size: 1.7em;
-    margin-bottom: 2px;
+    margin-bottom: 25px;
+    text-align: center;
   }
 
   .author-bio {
@@ -244,6 +246,16 @@
     }
   }
 
+  .post-item-location {
+    min-width: 50px;
+    color: $black;
+    font-weight: 700;
+
+    @include media-query($on-mobile) {
+      font-size: 14px;
+    }
+  }
+
   .post-item-title {
     margin: 0;
     color: $text-base-color;
@@ -261,7 +273,7 @@
 
 // Footer
 .footer {
-  margin-top: 8em;
+  margin-top: 4em;
   margin-bottom: 2em;
   text-align: center;
 
