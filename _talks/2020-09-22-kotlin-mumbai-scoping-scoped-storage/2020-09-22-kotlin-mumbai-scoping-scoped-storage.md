@@ -1,6 +1,6 @@
 ---
 title: "Scoping Scoped Storage"
-date: 2020-09-05 00:00:00 +01:00
+date: 2020-09-22 00:00:00 +01:00
 event: "Kotlin Mumbai"
 tags: [Android, Android 11, Storage, Talk]
 location: Online
