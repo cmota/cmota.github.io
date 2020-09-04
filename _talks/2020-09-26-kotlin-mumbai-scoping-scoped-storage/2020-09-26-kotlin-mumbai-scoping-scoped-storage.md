@@ -1,6 +1,6 @@
 ---
 title: "Scoping Scoped Storage"
-date: 2020-09-22 00:00:00 +01:00
+date: 2020-09-26 00:00:00 +01:00
 event: "Kotlin Mumbai"
 tags: [Android, Android 11, Storage, Talk]
 location: Online
@@ -17,4 +17,4 @@ This is still a sensitive subject to most of us due to the impact it had on most
 In this talk, we're going to share our pains about these developments and how everything will get better at the end.
 
 
-**More information:** <a href="https://www.meetup.com/Kotlin-Mumbai/" rel="noopener">Kotlin Mumbai</a>	
+**More information:** <a href="https://kotlinmumbai.tech/events/september-meetup" rel="noopener">Kotlin Mumbai - September Meetup</a>	
