@@ -1,12 +1,9 @@
 <footer class="footer">
-  <!--
-  <a class="footer_item" href="/thanks">ack.</a>
-  <a class="footer_item" href="/resume">resume</a>
-  <a class="footer_item" href="/feed.xml">rss</a>
-  <span class="footer_item">&copy; {{ site.time | date: "%Y" }}</span> -->
-  <small class="footer_theme-copyright">
+  {%- if page.url == '/' -%}
+  <span class="footer_item">&copy; {{ site.time | date: "%Y" }}</span>
+  <small class="footer_copyright">
     <!-- Klisé Theme: https://github.com/piharpi/jekyll-klise -->
-    adapted from 
+    adapted from
     <a
       href="https://github.com/piharpi/jekyll-klise"
       target="_blank"
@@ -17,13 +14,25 @@
     <a href="https://jekyllrb.com" target="_blank" rel="noreferrer noopener"
       >jekyll</a
     >
-
-    <span class="footer_item">&copy; {{ site.time | date: "%Y" }}</span>
   </small>
+  {%- endif -%}
 </footer>
 <script src="/assets/js/main.js" defer="defer"></script>
-<script src="/assets/js/galite.js"></script>
-<script>
-  var galite = galite || {};
-  galite.UA = "{{ site.google_analytics }}";
-</script>
+
+{%- if page.google_analytics -%}
+  <script src="/assets/js/galite.js"></script>
+  <script>
+    var galite = galite || {};
+    galite.UA = "{{ site.google_analytics }}";
+  </script>
+{%- endif -%}
+{%- if page.url == '/search/' -%}
+  <script src="/assets/js/search.min.js"></script>
+  <script>
+    var sjs = SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('search-results'),
+      json: '/assets/search.json',
+    });
+  </script>
+{%- endif -%}

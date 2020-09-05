@@ -222,6 +222,13 @@ body[data-theme="dark"] {
     }
   }
 
+  // Search
+  .search-article {
+    input[type="search"] {
+      color: $dark-text-base-color;
+    }
+  }
+
   // 404 Page
   .not-found {
     .title {
