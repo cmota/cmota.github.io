@@ -7,7 +7,7 @@ comments: false
 ---
 
 <h4 class="posts-item-note">Upcoming Talks</h4>
-{% for talk in site.talks reversed %}
+{% for talk in site.talks %}
 {% if talk.date > site.time %}	
   <article class="post-item">
     <span class="post-item-date">{{ talk.date | date: "%b %d, %Y" }}</span>
