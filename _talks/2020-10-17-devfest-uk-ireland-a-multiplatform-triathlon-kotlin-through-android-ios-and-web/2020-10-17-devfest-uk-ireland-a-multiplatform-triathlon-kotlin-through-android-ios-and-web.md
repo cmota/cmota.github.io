@@ -1,6 +1,6 @@
 ---
 title: "A Multiplatform triathlon: Kotlin through Android, iOS and Web"
-date: 2020-09-17 00:00:00 +01:00
+date: 2020-10-17 00:00:00 +01:00
 event: DevFest UK & Ireland
 tags: [Kotlin, Kotlin Multiplatform, Talk]
 location: Online
