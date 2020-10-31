@@ -1,7 +1,7 @@
 ---
 title: "A Multiplatform Adventure!"
-date: 2020-10-09 00:00:00 +01:00
-event: droidcon EMEA
+date: 2020-10-17 00:00:00 +01:00
+event: DevFest Caribbean
 tags: [Kotlin, Kotlin Multiplatform, Workshop]
 location: Online
 image: ""
@@ -22,8 +22,5 @@ Attendees will learn...
 - use the most common kmp libraries like ktor
 - share all of this logic across both platforms
 
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;">
-	<iframe title="vimeo-player" src="https://player.vimeo.com/video/470608188" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-</div>
 
-**More information:** <a href="https://www.online.droidcon.com/emea2020" rel="noopener">droidcon EMEA</a>	
+**More information:** <a href="https://gdg.community.dev/events/details/google-gdg-georgetown-presents-devfest-caribbean-2020/" rel="noopener">DevFest Caribbean</a>
