@@ -31,6 +31,30 @@ Como complemento às aulas desenvolvemos também Codelabs, podes encontrá-los o
 
 ## Aulas
 
+##### Aula #3: Fundações II 🏡
+
+Como é que customizamos e embelezamos a nossa aplicação? O que acontece quando o utilizador carrega num botão?
+
+- Layouts
+- Views (TextView, ImageView, Button, etc.)
+- Interação com o utilizador
+
+
+##### Diapositivos 
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;">
+	<iframe src="https://speakerdeck.com/player/91af30160c0e4a9e89caa08e857603c9" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media">
+	</iframe>
+</div>
+
+##### Video 
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;">
+	<iframe src="https://www.youtube.com/embed/Ejq0RGkRRb8?autoplay=0&fs=0&iv_load_policy=3&showinfo=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media">
+	</iframe>
+</div>
+
+
 ##### Aula #2: Fundações I 🏗 
 
 Depois de criarem a vossa primeira aplicação, o que se segue? O que são estes ficheiros e classes? O que é uma Activity?
@@ -49,7 +73,7 @@ Depois de criarem a vossa primeira aplicação, o que se segue? O que são estes
 	</iframe>
 </div>
 
-##### Vídeo 
+##### Video 
 
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;">
 	<iframe src="https://www.youtube.com/embed/CrXkqsrGMIg?autoplay=0&fs=0&iv_load_policy=3&showinfo=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media">
@@ -75,7 +99,7 @@ Durante as próximas semanas vais desenvolver uma aplicação Android utilizando
 	</iframe>
 </div>
 
-##### Vídeo 
+##### Video 
 
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;">
 	<iframe src="https://www.youtube.com/embed/WXJPOQvne3M?autoplay=0&fs=0&iv_load_policy=3&showinfo=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media">
@@ -98,7 +122,7 @@ Bem-vindos! Esta primeira aula é de suporte. Vamos-te ensinar a instalar o Andr
 	</iframe>
 </div>
 
-##### Vídeo 
+##### Video 
 
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;">
 	<iframe src="https://www.youtube.com/embed/8FWNhkG252s?autoplay=0&fs=0&iv_load_policy=3&showinfo=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media">
