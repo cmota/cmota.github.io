@@ -13,6 +13,6 @@ Do you spend most of your time writting layouts and then inflating them?
 
 Do you wish you could go a little further but don't have time or need to do so?
 
-Well, welcome to the Android Autumn Sessions!
+Well, welcome to the Android Spring Sessions!
 
 In this course we will approach the little and important things that you are unable to do in your day-to-day tasks. In the end, hopefully, some of the knowledge acquired will find a place in your daily work, helping you build better applications with less effort.

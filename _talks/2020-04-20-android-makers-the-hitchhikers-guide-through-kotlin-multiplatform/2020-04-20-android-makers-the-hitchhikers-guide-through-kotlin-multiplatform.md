@@ -31,4 +31,4 @@ Here comes Kotlin Multiplatform!
 </div>
 
 
-**More information:** <a href="https://androidmakers.fr/" rel="noopener">Android Makers 2019</a>ss
+**More information:** <a href="https://androidmakers.fr/" rel="noopener">Android Makers 2020</a>

@@ -18,4 +18,4 @@ Kotlin multiplatform gives us a new solution. It focuses on sharing your busines
 
 Join me on this triathlon and let’s go through Android, iOS, and Web in under 45 minutes.
 
-**More information:** <a href="https://latinandroidsummit.virtualconference.com/" rel="noopener">Latin ANdroid Summit</a>
+**More information:** <a href="https://latinandroidsummit.virtualconference.com/" rel="noopener">Latin Android Summit</a>
