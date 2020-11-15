@@ -31,6 +31,32 @@ Como complemento às aulas desenvolvemos também Codelabs, podes encontrá-los o
 
 ## Aulas
 
+##### Aula #4: Fundações III 💪
+
+Para a melhor experiência possível queremos que a nossa interface seja o mais rápida e fluida possível - para isso, operações pesadas devem ser delegadas para threads secundárias.
+
+- Architecture Components
+- Operações assíncronas
+- Live data
+- ViewModel
+- Permissões 
+
+
+##### Diapositivos 
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;">
+	<iframe src="https://speakerdeck.com/player/3c172f0e39a646149759ce84783ff398" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media">
+	</iframe>
+</div>
+
+##### Video 
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;">
+	<iframe src="https://www.youtube.com/embed/V3zUJJDTFG8?autoplay=0&fs=0&iv_load_policy=3&showinfo=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media">
+	</iframe>
+</div>
+
+
 ##### Aula #3: Fundações II 🏡
 
 Como é que customizamos e embelezamos a nossa aplicação? O que acontece quando o utilizador carrega num botão?
