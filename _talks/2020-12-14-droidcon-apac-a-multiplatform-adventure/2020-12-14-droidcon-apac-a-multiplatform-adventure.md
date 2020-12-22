@@ -31,4 +31,8 @@ Attendees will learn...
 - use the most common kmp libraries like ktor
 - share all of this logic across both platforms
 
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;">
+	<iframe title="vimeo-player" src="https://player.vimeo.com/video/491121768" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+</div>
+
 **More information:** <a href="https://www.online.droidcon.com/apac-2020" rel="noopener">droidcon APAC</a>	
