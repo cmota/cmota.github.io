@@ -17,3 +17,9 @@ For several years now, that we’ve been trying to find new solutions on how we 
 Kotlin multiplatform gives us a new solution. It focuses on sharing your business logic across all platforms, leaving the UI to be implemented natively. Since it’s Kotlin, you can take full advantage of its language features - concise, safe, etc. Moreover, if you’re coming from android you might already be familiarised with Kotlin and even if you’re an iOS developer you’ll see that it’s quite similar to Swift.
 
 Join me on this triathlon and let’s go through Android, iOS, and Web in under 45 minutes.
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;">
+	<iframe title="vimeo-player" src="https://www.youtube.com/embed/7XxU9AB0UKs" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+</div>
+
+**More information:** <a href="https://devfestdach.online/" rel="noopener">DevFest DACH</a>	
