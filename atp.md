@@ -32,6 +32,42 @@ Como complemento às aulas desenvolvemos também Codelabs, podes encontrá-los o
 ## Aulas
 
 
+##### Aula #11 Resumo 📚
+
+Nesta aula fizemos um resumo de toda a matéria e contamos ainda com vários convidados que nos apresentaram os seguintes temas:
+
+- Neto Marin
+Qualidade  e futuro das aplicações Android 
+
+- Nuno Loureiro
+Pixels Camp forever
+
+- Inês Santos Silva
+Construir Equipas Diversas e Inclusivas
+
+- Isabel Costa
+Como e porquê começar a contribuir para OSS?
+
+- José Rocha
+Porque é que precisamos de mais programadores?
+
+
+##### Diapositivos 
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;">
+	<iframe src="https://speakerdeck.com/player/346033ff952046249b529f70b93f17a4" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media">
+	</iframe>
+</div>
+
+##### Video 
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;">
+	<iframe src="https://www.youtube.com/embed/B_wAaBURt6w?autoplay=0&fs=0&iv_load_policy=3&showinfo=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media">
+	</iframe>
+</div>
+
+
+
 ##### Aula #10 Tensorflow Lite no Android 🤖
 
 Continuação da aula anterior. A partir do modelo treinado anteriormente, vamos agora importá-lo para a nossa aplicação.
