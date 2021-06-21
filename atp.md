@@ -36,20 +36,11 @@ Como complemento às aulas desenvolvemos também Codelabs, podes encontrá-los o
 
 Nesta aula fizemos um resumo de toda a matéria e contamos ainda com vários convidados que nos apresentaram os seguintes temas:
 
-- Neto Marin
-Qualidade  e futuro das aplicações Android 
-
-- Nuno Loureiro
-Pixels Camp forever
-
-- Inês Santos Silva
-Construir Equipas Diversas e Inclusivas
-
-- Isabel Costa
-Como e porquê começar a contribuir para OSS?
-
-- José Rocha
-Porque é que precisamos de mais programadores?
+- Qualidade  e futuro das aplicações Android (Neto Marin)
+- Pixels Camp forever (Nuno Loureiro)
+- Construir Equipas Diversas e Inclusivas (Inês Santos Silva)
+- Como e porquê começar a contribuir para OSS? (Isabel Costa)
+- Porque é que precisamos de mais programadores? (José Rocha)
 
 
 ##### Diapositivos 
