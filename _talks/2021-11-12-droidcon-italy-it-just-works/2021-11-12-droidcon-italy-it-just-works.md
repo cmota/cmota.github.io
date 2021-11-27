@@ -1,5 +1,5 @@
 ---
-title: "It Just Works* (*running Compose on Android, Desktop and Web along with KMP)"
+title: "It Just Works (Compose and KMP on Android, Desktop and Web)"
 date: 2021-11-12 00:00:00 +01:00
 event: droidcon Italy
 tags: [Kotlin, Kotlin Multiplatform, Compose, Compose Multiplatform, Talk]
