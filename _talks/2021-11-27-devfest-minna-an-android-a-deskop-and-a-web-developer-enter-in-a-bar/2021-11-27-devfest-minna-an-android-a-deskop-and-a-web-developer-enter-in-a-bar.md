@@ -19,7 +19,7 @@ This last year has been great for multiplatform development. As Kotlin keeps pus
 In this talk, you’re going to see how you can start to decompose your Android app and start sharing all of its content along with a Desktop app and the Web. Drink at your own responsibility.
 
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;">
-	<iframe title="vimeo-player" src="https://www.youtube.com/embed/YAUDmZKipxU" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+	<iframe title="vimeo-player" src="https://www.youtube.com/embed/JG4JEoHxbrg" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 </div>
 
 **More information:** <a href="https://gdg.community.dev/events/details/google-gdg-minna-presents-devfest-minna-2021/" rel="noopener">DevFest Minna</a>	
