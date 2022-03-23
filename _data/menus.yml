@@ -2,6 +2,10 @@
   url: /
   external: false
 
+- title: book
+  url: https://www.raywenderlich.com/books/kotlin-multiplatform-by-tutorials/v1.0
+  external: true
+
 - title: writing
   url: /writing/
   external: false
