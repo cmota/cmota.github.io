@@ -1,5 +1,5 @@
 ---
-title: "Desenvolver apps Android e iOS: Native, Kotlin Multiplatform, Flutter e React native"
+title: "Desenvolver apps Android e iOS: Native, KMP, Flutter e React native"
 date: 2022-03-10 00:00:00 +01:00
 event: GDG Coimbra
 tags: [Kotlin, Kotlin Multiplatform, Panel]
